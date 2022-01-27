@@ -1741,6 +1741,7 @@ body.menu-is-open {
 
 .header-nav p {
   margin-bottom: 2.7rem;
+  color: white;
 }
 
 .header-nav__content,
