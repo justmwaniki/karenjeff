@@ -75,13 +75,13 @@ body {
 }
 
 body {
-  background: wheat;
+  background: rgb(15, 13, 13);
   font-family: "Nunito Sans", sans-serif;
   font-size: 1.7rem;
   font-style: normal;
   font-weight: normal;
   line-height: 1.941;
-  color: #000000;
+  color: white;
   margin: 0;
   padding: 0;
 }
@@ -114,7 +114,7 @@ a:active {
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
-  color: #000000;
+  color: white;
   text-rendering: optimizeLegibility;
 }
 
@@ -192,7 +192,7 @@ p.lead {
   line-height: 1.625;
   margin-bottom: 3.6rem;
   /* color: rgba(255, 255, 255, 0.2); */
-  color: #000000;
+  color: white;
 }
 
 @media only screen and (max-width:1200px) {
@@ -1412,7 +1412,7 @@ body.menu-is-open {
 }
 
 .darker {
-  background-color: wheat;
+  background-color: rgb(15, 13, 13);
 }
 
 /* ------------------------------------------------------------------- 
@@ -2732,7 +2732,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
   padding-top: 18rem;
   padding-bottom: 18rem;
-  background-color: wheat;
+  background-color: rgb(15, 13, 13);
   position: relative;
 }
 
@@ -3008,8 +3008,8 @@ html.no-csstransitions .home-content__main {
   width: 50%;
   height: 100%;
   opacity: .3;
-  /* background-color: rgba(0, 0, 0, 0.9); */
-  /* background-image: url(../images/pattern.jpg); */
+  background-color: rgba(0, 0, 0, 0.9);
+  background-image: url(../images/pattern.jpg);
   background-size: 760px 380px;
 }
 
@@ -3312,6 +3312,7 @@ html.no-csstransitions .home-content__main {
 .clients li {
   display: inline-block;
   padding: 0 1.5rem;
+  font-size: large;
 }
 
 /* ------------------------------------------------------------------- 
