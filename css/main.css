@@ -3641,7 +3641,7 @@ html.no-csstransitions .home-content__main {
 .contact-main {
   font-size: 3.3rem;
   line-height: 1.636;
-  margin-top: 9rem;
+  margin-top: 1rem;
 }
 
 .contact-main [class*="contact-"] {
@@ -3653,7 +3653,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-email a {
-  font-size: 5rem;
+  /* font-size: 0rem; */
   font-weight: 500;
   line-height: 1.2;
   color: #FFFFFF;
@@ -3665,10 +3665,7 @@ html.no-csstransitions .home-content__main {
   border-bottom: 3px solid rgba(255, 255, 255, 0.2);
 }
 
-.contact-numbers a:hover,
-.contact-numbers a:focus {
-  border-bottom: 3px solid rgba(255, 255, 255, 0.2);
-}
+
 
 /* ------------------------------------------------------------------- 
  * ## contact social
