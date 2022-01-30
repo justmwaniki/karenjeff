@@ -2465,7 +2465,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width:1600px) {
   .home-content h1 {
-    font-size: 17rem;
+    font-size: 4rem;
   }
 
   .home-content h3 {
@@ -2497,7 +2497,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-content h1 {
-    font-size: 14rem;
+    font-size: 4rem;
   }
 
   .home-content h3 {
@@ -2551,7 +2551,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width:1000px) {
   .home-content h1 {
-    font-size: 13rem;
+    font-size: 4rem;
   }
 
   .home-content h3 {
@@ -2574,7 +2574,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width:900px) {
   .home-content h1 {
-    font-size: 12rem;
+    font-size: 4rem;
   }
 
   .home-content h3 {
@@ -2589,7 +2589,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width:800px) {
   .home-content h1 {
-    font-size: 11.4rem;
+    font-size: 4rem;
   }
 
   .home-content h3 {
@@ -2627,7 +2627,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width:700px) {
   .home-content h1 {
-    font-size: 10.2rem;
+    font-size: 4rem;
   }
 
   .home-content h3 {
