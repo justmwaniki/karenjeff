@@ -81,7 +81,7 @@ body {
 body {
   background: #e0dbdb;
   font-family: 'Gabriola', sans-serif;
-  src: url(./css/font-awesome/webfonts/gabriola-Font-Download.ttf);                                                
+  /* src: url(./css/font-awesome/webfonts/gabriola-Font-Download.ttf); */
   font-size: 1.7rem;
   font-style: normal;
   font-weight: normal;
@@ -118,7 +118,7 @@ a:active {
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: 'Gabriola', sans-serif;  
-  src: url(./css/font-awesome/webfonts/gabriola-Font-Download.ttf);                                      
+  /* src: url(./css/font-awesome/webfonts/gabriola-Font-Download.ttf); */
   font-weight: 600;
   color: #000000;
   text-rendering: optimizeLegibility;
@@ -193,7 +193,6 @@ p img {
 
 p.lead {
   font-family: 'Gabriola', sans-serif;    
-  src: url(./css/font-awesome/webfonts/gabriola-Font-Download.ttf);                                    
   font-weight: 300;
   font-size: 2.4rem;
   line-height: 1.625;
