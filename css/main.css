@@ -3967,7 +3967,9 @@ footer a {
 .map{
   margin-top: 30px;
 }
-
+.child p {
+  text-align: center;
+}
 #customers {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
@@ -3975,7 +3977,7 @@ footer a {
 }
 
 #customers td, #customers th {
-  border: 1px solid #ddd;
+  border: 1px solid rgb(204, 204, 204);
   padding: 8px;
 }
 
@@ -3987,6 +3989,6 @@ footer a {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #04AA6D;
+  background-color: #f89e53;
   color: white;
 }
