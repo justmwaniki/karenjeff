@@ -59,7 +59,12 @@
  *
  * ------------------------------------------------------------------- */
 
- @import url('http://fonts.cdnfonts.com/css/gabriola');
+
+font-face{
+  font-family: 'Gabriola', sans-serif;
+  src: url(./css/font-awesome/webfonts/gabriola-Font-Download.ttf);
+  font-style: normal;
+}
 
 
 html {
@@ -81,7 +86,6 @@ body {
 body {
   background: #e0dbdb;
   font-family: 'Gabriola', sans-serif;
-  /* src: url(./css/font-awesome/webfonts/gabriola-Font-Download.ttf); */
   font-size: 1.7rem;
   font-style: normal;
   font-weight: normal;
