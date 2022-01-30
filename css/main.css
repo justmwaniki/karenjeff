@@ -58,6 +58,10 @@
  * # base style overrides
  *
  * ------------------------------------------------------------------- */
+
+ @import url('http://fonts.cdnfonts.com/css/gabriola');
+
+
 html {
   font-size: 10px;
 }
