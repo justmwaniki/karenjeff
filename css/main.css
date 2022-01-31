@@ -3992,3 +3992,8 @@ footer a {
   background-color: #f89e53;
   color: white;
 }
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
